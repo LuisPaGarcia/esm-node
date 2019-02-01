@@ -1,0 +1,17 @@
+{
+	"name": "esm-node",
+	"version": "1.0.0",
+	"description": "basic example to use esm module on node.",
+	"main": "index.js",
+	"module": "main.js",
+	"repository": "https://github.com/LuisPaGarcia/esm-node",
+	"author": "@luispagarcia",
+	"license": "MIT",
+	"private": false,
+	"scripts": {
+		"start": "node -r esm main.js"
+	},
+	"dependencies": {
+		"esm": "^3.2.0"
+	}
+}
