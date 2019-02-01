@@ -23,6 +23,8 @@ Using npm
 $ npm run start
 ```
 
+Enjoy.
+
 
 
 
